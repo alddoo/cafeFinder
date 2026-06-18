@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "536440430437",
+    "project_id": "palembang-5f717",
+    "storage_bucket": "palembang-5f717.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536440430437:android:748c82969f856059614b8c",
+        "android_client_info": {
+          "package_name": "com.example.cafe_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3W_PuTvnzCtA4vU2B5LZ3oDEg_z_uOvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
